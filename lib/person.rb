@@ -1,5 +1,5 @@
 class Person
-  def talks
+  def talk
     puts "Hello World!"
   end
 
